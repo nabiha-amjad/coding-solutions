@@ -1,4 +1,4 @@
-# Sum and Difference of Two Numbers
+# sum-numbers-c
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
@@ -46,7 +46,7 @@ Print the sum and difference of both integers separated by a space on the first 
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-06T17:14:33.217Z  
+**Submitted:** 2026-10-08T08:45:54.376Z  
 
 ```c
 #include <stdio.h>
